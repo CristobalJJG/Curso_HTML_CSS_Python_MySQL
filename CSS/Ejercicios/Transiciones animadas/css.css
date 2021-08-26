@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    padding: 0; margin: 0;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.box-center{
+    position: relative;
+    left: 50px; top: 20px;
+    width: 100px; height: 100px;
+    color: darkred;
+    text-align: center; text-justify: center;
+    background-color: gray;
+    box-shadow: 1px 2px 5px rgba(255, 255, 255, 0.5);
+    transition: 0.3s 0.5s;
+}
+
+.box-center:hover{
+    transform: scale(1.5, 1.5);
+    background-color: rgba(200, 200, 200, 0.5);
+}
+
+.box{
+    position: relative;
+    left: 20px; top: 50px;
+    margin: 15px; padding: 15px;
+    width: 200px;
+    text-align: center;
+    background-color: lightgrey;
+    box-shadow: 1px 2px 5px rgba(255, 255, 255, 0.5);
+    transition: 0.5s;
+}
+
+.b1{border-left: 3px solid red;}
+.b1:hover{
+    transform: scale(1.15, 1.15);
+}
+
+.b2{border-left: 3px solid green ;}
+.b2:hover{
+    box-shadow: 1px 5px 20px rgba(255, 255, 255, 0.5);
+}
+
+.b3{border-left: 3px solid blue;}
+.b3:hover{
+    background-color: rgba(100, 150, 200, 0.8);
+}

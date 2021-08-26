@@ -1,0 +1,39 @@
+body{
+    background-color: #ddd;
+}
+
+.caja{
+    background-color: white;
+    padding: 5px; margin: 5px;
+    border-style: solid; border-radius: 3px ; 
+    border-color: #ccc;border-width: 5px;
+    border-top: 0px; border-left: 0px;
+}
+
+.cont{
+    padding: 5px;
+}
+
+.mid{
+    padding: 20px;
+    border-top: solid 0.5px #ccc;
+    border-bottom: solid 0.5px #ccc;
+}
+
+.btn-prim{
+    border: solid #1e88e5;
+    background-color: #1e88e5;
+    color: aliceblue;
+    border-top: solid 0.5px #ccc;
+}
+
+.btn-sec{
+    border:solid grey;
+    background-color: grey;
+    color: aliceblue;
+}
+
+.btn{
+    padding: 4px; margin-bottom: 6px; margin-left: 6px;
+    border-radius: 2px;
+}

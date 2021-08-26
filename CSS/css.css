@@ -1,0 +1,51 @@
+body{
+    background: black;
+    color: azure;
+    margin: 0px; padding: 0px;
+}
+
+.caja{
+    margin: 0px; padding: 8px;
+    background-color: #664466;
+    border: solid white;
+    border-radius: 10px;
+    width: 100%; height: 40px;
+    text-align: center;
+    justify-content: center;
+}
+
+.over{
+    width: 110px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.over1{
+    width: 110px;
+    height: 100px;
+    overflow: scroll;
+}
+
+.over2{
+    width: 110px;
+    height: 100px;
+    overflow: auto;
+}
+
+.float-r{
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+img:hover{
+    opacity: 0.90;
+}
+
+.float-l{
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
