@@ -1,0 +1,46 @@
+14:27:16 [ACTION]-> Se intentó escribir en el fichero ' Curso Python-HTML-MySQL/Python/Ficheros/texto.txt '.
+	 [MSG]Mensaje que se intentó escribir -> ' Y si soy el mejor, weno y qué '
+
+14:33:58 [ACTION]-> Se intentó escribir en el fichero 'Curso Python-HTML-MySQL/Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Hola madre mía'
+
+14:33:58 [ACTION]-> Se intentó leer el fichero 'Curso Python-HTML-MySQL/Python/Ficheros/texto.txt'.14:37:07 [ACTION]-> Se intentó escribir en el fichero 'texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Hola madresita'
+
+14:37:07 [ACTION]-> Se intentó leer el fichero 'texto.txt'.14:39:44 [ACTION]-> Se intentó escribir en el fichero 'texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Sandra'
+
+14:39:44 [ACTION]-> Se intentó leer el fichero 'texto.txt'.14:40:29 [ACTION]-> Se intentó escribir en el fichero 'texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Juani'
+
+14:40:29 [ACTION]-> Se intentó leer el fichero 'texto.txt'.19:06:08 [ACTION]-> Se intentó escribir en el fichero 'Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Hey brouston, warap'
+	 
+19:06:08 [ACTION]-> Se intentó leer el fichero 'Python/Ficheros/texto.txt'.19:07:26 [ACTION]-> Se intentó escribir en el fichero 'Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Hey, que fue niño?'
+
+19:07:26 [ACTION]-> Se intentó leer el fichero 'Python/Ficheros/texto.txt'.19:08:35   19/08/Thu [ACTION]-> Se intentó escribir en el fichero 'Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Me aburro'
+
+19:08:35   19/08/Thu [ACTION]-> Se intentó leer el fichero 'Python/Ficheros/texto.txt'.19:10:46   Thursday-19/Aug/2021 [ACTION]-> Se intentó escribir en el fichero 'Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Hola, este sería el formato final de fecha, gracias!'
+
+19:10:46   Thursday-19/Aug/2021 [ACTION]-> Se intentó leer el fichero 'Python/Ficheros/texto.txt'.19:11:12   Thursday - 19/Aug/2021 [ACTION]-> Se intentó escribir en el fichero 'Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Formato Final'
+
+19:27:59   Thursday - 19/Aug/2021 [ACTION]-> Se intentó escribir en el fichero 'Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Intento de crear y borrar ficheros'
+
+19:30:17   Thursday - 19/Aug/2021 [ACTION]-> Se intentó escribir en el fichero 'Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Intento de crear y borrar ficheros'
+
+19:30:17   Thursday - 19/Aug/2021 [ACTION]-> Se intentó leer el fichero 'Python/Ficheros/texto.txt'.
+19:33:30   Thursday - 19/Aug/2021 [ACTION]-> Se intentó escribir en el fichero 'Python/Ficheros/texto.txt'.
+	 [MSG]Mensaje que se intentó escribir -> 'Intento ficheros'
+
+19:33:30   Thursday - 19/Aug/2021 [ACTION]-> Se intentó leer el fichero 'Python/Ficheros/texto.txt'.
+19:33:30   Thursday - 19/Aug/2021 [ACTION]-> Se intentó Se intentó crear una archivo con el nombre Python/Ficheros/Hola mundo1.txt
+19:33:30   Thursday - 19/Aug/2021 [ACTION]-> Se intentó Se intentó eliminar la archivo con el nombre temp
+19:33:30   Thursday - 19/Aug/2021 [ACTION]-> Se intentó Se intentó crear una archivo con el nombre Python/Ficheros/Hola mundo2.txt
+19:33:30   Thursday - 19/Aug/2021 [ACTION]-> Se intentó Se intentó eliminar la archivo con el nombre temp
+19:33:30   Thursday - 19/Aug/2021 [ACTION]-> Se intentó Se intentó eliminar la archivo con el nombre Python/Ficheros/Hola mundo2.txt
